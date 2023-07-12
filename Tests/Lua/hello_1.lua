@@ -12,7 +12,7 @@ local samples =
 
     }
 
-instrument.groups:reset()
+--instrument.groups:reset()
 
 local g = Group()
 instrument.groups:add(g)
